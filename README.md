@@ -1,1 +1,3 @@
-# Multishot
+Multishot Macro!
+
+PUT FOLDER INTO YOUR DOCUMENTS!
