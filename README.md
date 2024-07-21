@@ -8,5 +8,10 @@ Keybinds should look like this:
 ![image](https://github.com/user-attachments/assets/b8e0afe0-2f2b-4640-88ed-2c9fabfa9e3a)
 
 
+--------------------------------------------------------------------------------------------------------------------
+
+PVP Multishot: 27K - PVE Multishot: 3074
+(There is a 20-25 seconds delay before you can multishot again with NL4)
+
 
 
