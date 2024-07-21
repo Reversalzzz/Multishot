@@ -11,6 +11,7 @@ Keybinds should look like this:
 --------------------------------------------------------------------------------------------------------------------
 
 PVP Multishot: 27K - PVE Multishot: 3074
+
 (There is a 20-25 seconds delay before you can multishot again with NL4)
 
 
