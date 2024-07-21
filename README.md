@@ -6,6 +6,7 @@ The path should look like this:
 
 
 Keybinds should look like this:
-![image](https://github.com/user-attachments/assets/442dac88-4ec2-4da7-acf6-5a2359c4b3bd)
+![Uploading image.png…]()
+
 
 
