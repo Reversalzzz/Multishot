@@ -5,6 +5,7 @@ The path should look like this:
 
 
 
+
 Keybinds should look like this:
 ![image](https://github.com/user-attachments/assets/b8e0afe0-2f2b-4640-88ed-2c9fabfa9e3a)
 
